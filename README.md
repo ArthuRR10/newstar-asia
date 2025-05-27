@@ -1,2 +1,3 @@
 # newstar-asia
-Gerador de jogadores asiáticos com Flask
+Sistema do comando /New-stars do server NLEDF no discord
+NLEDF: https://discord.gg/S2TShew9NB
